@@ -25,8 +25,10 @@ Para navegar pelas páginas, utilizar os filtros e explorar os indicadores dinam
 
 | | |
 |:---:|:---:|
-| ![Página 1](images/screenshot_1.png) | ![Página 2](images/screenshot_2.png) |
-| ![Página 3](images/screenshot_3.png) | ![Página 4](images/screenshot_4.png) |
+| ![Página 1](images/screenshot_1.png) | 
+| ![Página 2](images/screenshot_2.png) |
+| ![Página 3](images/screenshot_3.png) |
+| ![Página 4](images/screenshot_4.png) |
 
 ### Explicação do Projeto
 
