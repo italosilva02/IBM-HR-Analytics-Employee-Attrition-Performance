@@ -34,7 +34,8 @@ Para navegar pelas páginas, utilizar os filtros e explorar os indicadores dinam
 
 | | |
 |:---:|:---:|
-| ![Explicação 1](images/screenshot_5.png) | ![Explicação 2](images/screenshot_6.png) |
+| ![Explicação 1](images/screenshot_5.png) |
+| ![Explicação 2](images/screenshot_6.png) |
 
 </div>
 
